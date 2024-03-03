@@ -5,6 +5,18 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 -   Node.js: 18.17.0
 -   VS Code (Recommended)
 
+
+## Installation
+`npm install` でプロジェクトの依存関係にあるライブラリ等を全てインストールする。
+
+Type `npm install` into your console to install all necessary dependencies for this project.
+
+## Startup Local Host
+`npm run dev` でローカルホストを立ち上げる。
+
+Type `npm run dev` into your console to start your localhost.
+
+
 ## Git Rules
 
 ### Prefixes
