@@ -1,5 +1,35 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+## Git Rules
+
+### Prefixes
+
+```
+fix: バグ等の修正
+feat: 新機能
+refactor: 動作に影響のないコード変更
+docs: ドキュメントのみの変更
+style: スタイルのみの変更
+perf: パフォーマンス向上関連の変更
+chore: ライブラリ等の変更
+test: テスト関連の変更
+**!: 破壊的変更
+```
+
+### Branch Name
+
+```
+ex) {your_name}/feat_***
+```
+
+### Commit Message
+
+```
+ex) feat: xxxx
+```
+
+Reference: https://www.conventionalcommits.org/en/v1.0.0/
+
 ## Getting Started
 
 First, run the development server:
@@ -24,8 +54,8 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 
 To learn more about Next.js, take a look at the following resources:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+-   [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
+-   [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
 You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
